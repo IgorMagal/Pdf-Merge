@@ -1,0 +1,16 @@
+C:\Users\IgorMagal\PdfMerge\bin\Debug\net4.7\PdfMerge.exe.config
+C:\Users\IgorMagal\PdfMerge\bin\Debug\net4.7\PdfMerge.exe
+C:\Users\IgorMagal\PdfMerge\bin\Debug\net4.7\PdfMerge.pdb
+C:\Users\IgorMagal\PdfMerge\bin\Debug\net4.7\PdfSharp.Charting.dll
+C:\Users\IgorMagal\PdfMerge\bin\Debug\net4.7\PdfSharp.dll
+C:\Users\IgorMagal\PdfMerge\bin\Debug\net4.7\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\IgorMagal\PdfMerge\bin\Debug\net4.7\System.Text.Encoding.CodePages.dll
+C:\Users\IgorMagal\PdfMerge\bin\Debug\net4.7\de\PdfSharp.Charting.resources.dll
+C:\Users\IgorMagal\PdfMerge\bin\Debug\net4.7\de\PdfSharp.resources.dll
+C:\Users\IgorMagal\PdfMerge\obj\Debug\net4.7\PdfMerge.csprojAssemblyReference.cache
+C:\Users\IgorMagal\PdfMerge\obj\Debug\net4.7\PdfMerge.AssemblyInfoInputs.cache
+C:\Users\IgorMagal\PdfMerge\obj\Debug\net4.7\PdfMerge.AssemblyInfo.cs
+C:\Users\IgorMagal\PdfMerge\obj\Debug\net4.7\PdfMerge.csproj.CoreCompileInputs.cache
+C:\Users\IgorMagal\PdfMerge\obj\Debug\net4.7\PdfMerge.csproj.CopyComplete
+C:\Users\IgorMagal\PdfMerge\obj\Debug\net4.7\PdfMerge.exe
+C:\Users\IgorMagal\PdfMerge\obj\Debug\net4.7\PdfMerge.pdb

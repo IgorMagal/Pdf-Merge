@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "YiMlDR2Dh5n+qVqeqP7N1SeZhVYumOkFtAw713xb46+qRe/E2MW5cksMpaKKtkZmxrtDnY2qz4PuxrNswsirPA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\IgorMagal\\PdfMerge\\PdfMerge.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IgorMagal\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\IgorMagal\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net47\\1.0.0\\microsoft.netframework.referenceassemblies.net47.1.0.0.nupkg.sha512",
+    "C:\\Users\\IgorMagal\\.nuget\\packages\\pdfsharp\\1.51.5185-beta\\pdfsharp.1.51.5185-beta.nupkg.sha512",
+    "C:\\Users\\IgorMagal\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\IgorMagal\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

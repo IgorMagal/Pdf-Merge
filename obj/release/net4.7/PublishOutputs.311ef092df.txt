@@ -1,0 +1,9 @@
+C:\Users\IgorMagal\PdfMerge\bin\release\net4.7\publish\PdfMerge.exe
+C:\Users\IgorMagal\PdfMerge\bin\release\net4.7\publish\PdfMerge.exe.config
+C:\Users\IgorMagal\PdfMerge\bin\release\net4.7\publish\PdfMerge.pdb
+C:\Users\IgorMagal\PdfMerge\bin\release\net4.7\publish\PdfSharp.Charting.dll
+C:\Users\IgorMagal\PdfMerge\bin\release\net4.7\publish\PdfSharp.dll
+C:\Users\IgorMagal\PdfMerge\bin\release\net4.7\publish\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\IgorMagal\PdfMerge\bin\release\net4.7\publish\System.Text.Encoding.CodePages.dll
+C:\Users\IgorMagal\PdfMerge\bin\release\net4.7\publish\de\PdfSharp.Charting.resources.dll
+C:\Users\IgorMagal\PdfMerge\bin\release\net4.7\publish\de\PdfSharp.resources.dll
